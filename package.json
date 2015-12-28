@@ -1,0 +1,14 @@
+{
+  "name": "vayu-encryption",
+  "version": "1.0.0",
+  "description": "vayu file encryption",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anthony.r.shuker@gmail.com Anthony Shuker",
+  "license": "ISC",
+  "dependencies": {
+    "mcrypt": "^0.1.9"
+  }
+}

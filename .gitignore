@@ -1,0 +1,9 @@
+list
+*.swn
+*.swo
+uploads/
+*.swp
+node_modules/
+public/lib/
+build/
+tmp/

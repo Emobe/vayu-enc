@@ -1,5 +1,5 @@
 var mcrypt = require('mcrypt').MCrypt,
-    tripleDES = new mcrypt('tripeldes', 'ecb'),
+    tripleDES = new mcrypt('tripledes', 'ecb'),
     fs = require('fs'),
     input = '~/../build/api/uploads/',
     output = '~/../build/data/';
